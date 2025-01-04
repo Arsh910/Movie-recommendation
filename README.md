@@ -1,6 +1,13 @@
 # Movie-recommendation
 
-![Alt text](pictures/1.png "Optional Title")
+![Alt text](pictures/1.png)
+
+# Recommendation
+
+![Alt text](pictures/2.png)
+
+![Alt text](pictures/3.png)
+
 
 Follow these steps to set up the project:
 
