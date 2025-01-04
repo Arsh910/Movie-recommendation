@@ -1,5 +1,6 @@
 # Movie-recommendation
 
+![Alt text](pictures/1.png "Optional Title")
 
 Follow these steps to set up the project:
 
